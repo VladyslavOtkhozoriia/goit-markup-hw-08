@@ -1,0 +1,26 @@
+// utils //
+
+@import "./utils/visually-hidden";
+@import "./utils/variables";
+
+// base //
+
+@import "./base/common";
+@import "./base/container";
+
+// components-index //
+
+@import "./components/page-header";
+@import "./components/page-hero";
+@import "./components/page-our_advantages";
+@import "./components/page-services";
+@import "./components/page-our_team";
+@import "./components/page-client";
+@import "./components/page-footer";
+
+
+// components-portfolio //
+@import "./components/page-buttons";
+@import "./components/page-poster";
+@import "./components/page-backdrop";
+@import "./components/page-backdrop-modal";

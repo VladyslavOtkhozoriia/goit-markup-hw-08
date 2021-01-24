@@ -1,0 +1,62 @@
+
+    @media screen and(min-width:200px) and (max-width: 1199px) {
+
+    .services {
+  display: none;
+}
+
+    }
+
+
+.services .container{
+
+  .services-title {
+    margin-bottom: 50px;
+  }
+
+  .services-list {
+    display: flex;
+    align-items: center;
+    margin-bottom: 94px;
+  }
+
+  .services-list-item{
+    position: relative;
+  }
+}
+ 
+  .services-title,
+  .our_team-main-title,
+  .clients-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--black-color);
+  }
+  
+
+  .container-services{
+
+    position: absolute;
+    bottom: 0;
+
+    .services-text{
+     color: var(--white-color);
+  }
+  
+    .services-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 370px;
+    height: 70px;
+    background-color: rgba(47, 48, 58, 0.8);
+  }
+  }
+
+  .services .container .services-list {
+    justify-content: space-between;
+  }
+

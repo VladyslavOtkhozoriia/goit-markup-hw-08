@@ -1,0 +1,56 @@
+//  .menu-button{
+//   display: inline-flex;
+//   margin: 0;
+//   padding: 0;
+//   border: none;
+//   background-color: transparent;
+// }
+
+// .menu-button .icon-menu-mobile{
+//   display: none;
+
+//   &:hover,
+//   &:focus{
+//     fill: var(--blue-color);
+//   }
+//   }
+
+// .menu-button.is-open .icon-menu-mobile{
+//   display: block;
+// }
+
+// .icon-menu-mobile{
+
+//   &:hover,
+//   &:focus{
+//     fill: var(--blue-color);
+//   }
+// }
+
+// .menu-button.is-open .icon-close-mobile{
+//   display: none;
+// }
+
+// .icon-close-mobile{
+
+//   &:hover,
+//   &:focus{
+//     fill: var(--blue-color);
+//   }
+// }
+
+// .menu-container{
+//   display: none;
+//   position: absolute;
+//   top: 100%;
+//   left: 0;
+//   width: 100%;
+//   background-color: green;
+//   max-height: 393px;
+//   width: 100%;
+//   text-align: center;
+//   background-color: white;
+
+//   &.is-open{
+//     display: block;
+//   }
